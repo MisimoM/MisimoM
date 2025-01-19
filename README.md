@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hej 👋
+
+Jag är en engagerad Fullstack-utvecklare med erfarenhet av C#, .NET och React, som söker mitt första jobb som utvecklare. Under studietiden har jag lärt mig grunderna för att bygga fullstack-applikationer, och fått förståelse för databasdesign och API-utveckling. Jag är intresserad av att skapa hållbara, skalbara lösningar och är alltid nyfiken på att lära mig nytt och anta nya utmaningar.
+
+Just nu genomför jag min praktik och examensarbete på Consid i Halmstad, som pågår till slutet av april. Följ gärna utvecklingen av mitt examensarbete, som är pinnat längre ner. Ta också en titt på mina andra repositories för att få en inblick i vad jag lärt mig under studietiden.
+
+### Teknisk kompetens
+**C# | ASP.NET Core | ASP.NET MVC | GraphQL | SQL Server | TypeScript | React | Next.js | Tailwind CSS | Umbraco CMS | Docker**
 
 <!--
 **MisimoM/MisimoM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
