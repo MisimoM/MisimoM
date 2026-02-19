@@ -5,10 +5,7 @@ Jag lär mig gärna om arkitektur, flöden och designmönster för att uppnå l�
 
 Kika gärna på mina pinnade repos för att se vad jag lär mig.  
 Där hittar du bland annat olika arkitekturer, teststrategier, integrationer  
-samt enklare implementeringar av domain-driven design och event-driven arkitektur.  
-
----
-C# · .NET · Aspire · Docker · PostgreSQL · React · TypeScript · Tailwind CSS
+samt enklare implementeringar av domain-driven design och event-driven arkitektur.
 
 
 
