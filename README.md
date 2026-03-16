@@ -1,14 +1,9 @@
 ## Hej 👋
 
 Jag är .NET-utvecklare som brinner för att bygga system som är lätta att förstå, testa och vidareutveckla.  
-Jag lär mig gärna om arkitektur, systemflöden och designmönster för att uppnå läsbarhet och testbarhet. 
+Jag lär mig gärna mer om arkitektur, systemflöden och designmönster för att göra kod mer läsbar och hållbar över tid. 
 
-Kika gärna på mina pinnade repos för att se vad jag lär mig.  
-Där hittar du bland annat olika arkitekturer, teststrategier, integrationer  
-samt enklare implementeringar av domain-driven design och event-driven arkitektur.
-
-
-
+Kolla gärna mina pinnade repos, där jag byggt och utforskat olika arkitekturer, teststrategier, integrationer samt enklare implementeringar av Domain-Driven Design och event-driven arkitektur
 
 
 <!--
